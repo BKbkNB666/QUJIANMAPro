@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.vela.pickupjm",
+    "restype": "quick_app",
+    "name": "取件码Pro",
+    "description": "让住宿生领取快递时可以通过设备获取取件码",
+    "preview": [
+      "media/image.png",
+      "media/屏幕截图 2026-11-21 205534.png"
+    ],
+    "icon": "media/image.png",
+    "cover": "media/屏幕截图 2026-11-21 205534.png",
+    "author": [
+      {
+        "name": "BK666",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "2.3.4",
+      "file_name": "downloads/com.vela.pickupjm.release.2.3.4.rpk",
+      "versionCode": 16
+    }
+  },
+  "ext": {}
+}
