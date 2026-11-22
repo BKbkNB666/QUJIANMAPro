@@ -1,14 +1,15 @@
 {
   "item": {
-    "id": "com.vela.pickupjm",
+    "id": "xyz.bksystem.qjm",
     "restype": "quick_app",
     "name": "取件码Pro",
-    "description": "让住宿生领取快递时可以通过设备获取取件码",
+    "description": "取件码 Pro 是一款专为腕上设备设计的取件码助手。绑定后自动同步快递信息，把快递公司、完整运单号、取件码集中显示在大字号卡片上，驿站货架号与丰巢柜机号等等机柜一并呈现，翻页即可查看多个待取包裹。\n\n- 扫码配对：手机扫一扫手表上的二维码，授权插件即同步。\n- 离线可用：数据本地缓存，eSIM设备联网更新、手机不在身边也能亮码取件。\n- 场景适配：内置校园住宿生模式，支持亲情号代收同步，手机上交也不影响取件。\n- 多平台兼容：顺丰、中通、韵达等主流快递统一收进一块表。",
     "preview": [
-      "media/image.png",
-      "media/屏幕截图 2026-11-21 205534.png"
+      "media/屏幕截图 2026-11-22 094648.png",
+      "media/454c6e623078108e133ec8026e54175b (2).png",
+      "media/65d159d363af7a211acda2e3eb1cba8d (2) (1) (1).png"
     ],
-    "icon": "media/image.png",
+    "icon": "media/屏幕截图 2026-11-22 092747.png",
     "cover": "media/屏幕截图 2026-11-21 205534.png",
     "author": [
       {
@@ -17,13 +18,21 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://qjm.bksystem.xyz/",
+      "icon": "globe"
+    }
+  ],
   "downloads": {
     "xmrw5xring": {
       "version": "2.3.4",
-      "file_name": "downloads/com.vela.pickupjm.release.2.3.4.rpk",
+      "file_name": "downloads/xyz.bksystem.qjm.release.2.3.4.rpk",
       "versionCode": 16
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
